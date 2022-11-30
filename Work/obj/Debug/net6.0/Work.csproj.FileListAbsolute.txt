@@ -1,0 +1,15 @@
+/Users/dim-pin/Documents/Final-control/Work/bin/Debug/net6.0/Work
+/Users/dim-pin/Documents/Final-control/Work/bin/Debug/net6.0/Work.deps.json
+/Users/dim-pin/Documents/Final-control/Work/bin/Debug/net6.0/Work.runtimeconfig.json
+/Users/dim-pin/Documents/Final-control/Work/bin/Debug/net6.0/Work.dll
+/Users/dim-pin/Documents/Final-control/Work/bin/Debug/net6.0/Work.pdb
+/Users/dim-pin/Documents/Final-control/Work/obj/Debug/net6.0/Work.csproj.AssemblyReference.cache
+/Users/dim-pin/Documents/Final-control/Work/obj/Debug/net6.0/Work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dim-pin/Documents/Final-control/Work/obj/Debug/net6.0/Work.AssemblyInfoInputs.cache
+/Users/dim-pin/Documents/Final-control/Work/obj/Debug/net6.0/Work.AssemblyInfo.cs
+/Users/dim-pin/Documents/Final-control/Work/obj/Debug/net6.0/Work.csproj.CoreCompileInputs.cache
+/Users/dim-pin/Documents/Final-control/Work/obj/Debug/net6.0/Work.dll
+/Users/dim-pin/Documents/Final-control/Work/obj/Debug/net6.0/refint/Work.dll
+/Users/dim-pin/Documents/Final-control/Work/obj/Debug/net6.0/Work.pdb
+/Users/dim-pin/Documents/Final-control/Work/obj/Debug/net6.0/Work.genruntimeconfig.cache
+/Users/dim-pin/Documents/Final-control/Work/obj/Debug/net6.0/ref/Work.dll
